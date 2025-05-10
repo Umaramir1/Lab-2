@@ -7,5 +7,28 @@ class Program
         Console.WriteLine("Umar Amir");
         
         Console.WriteLine("24-ST-012");
+
+1st_semester
+ 2nd_semester
+         kajhijh
+
+        1st_semester subjects:
+        CP
+        ITS
+        EHS
+        Applied Physics
+        Calculus
+        Islamic Studies
+ 1st_semester
+
+        fsc_subjects:
+English
+Urdu
+Islamic Studies (Part 1 – 1st Year)
+Pakistan Studies (Part 2 – 2nd Year)
+Computer Science
+Mathematics
+Physics
+fsc_subjects
     }
 }
