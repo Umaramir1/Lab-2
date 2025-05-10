@@ -7,6 +7,16 @@ class Program
         Console.WriteLine("Umar Amir");
         
         Console.WriteLine("24-ST-012");
+ 2nd_semester
          kajhijh
+
+        1st_semester subjects:
+        CP
+        ITS
+        EHS
+        Applied Physics
+        Calculus
+        Islamic Studies
+ 1st_semester
     }
 }
